@@ -1,4 +1,4 @@
-# 🌬️ Wind Turbine Powered DC Generator for Rural Electrification
+# Wind Turbine Powered DC Generator for Rural Electrification
 
 > A renewable energy engineering project demonstrating electricity generation using a wind-driven DC generator to power a miniature village.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project demonstrates the generation of electrical energy using a **wind-driven DC generator**. Airflow from a hair dryer or air pump simulates wind, causing the turbine to rotate and drive the generator.
 
@@ -19,7 +19,7 @@ The project highlights the potential of renewable energy technologies to reduce 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design and construct a small-scale wind turbine.
 - Generate electricity using a DC generator.
@@ -29,7 +29,7 @@ The project highlights the potential of renewable energy technologies to reduce 
 
 ---
 
-## 🌍 Background
+## Background
 
 Many countries, including South Africa, experience frequent electricity shortages due to increasing energy demand. Renewable energy sources such as wind offer sustainable alternatives that reduce greenhouse gas emissions while improving energy security.
 
@@ -37,7 +37,7 @@ This project demonstrates how wind energy can be converted into electrical energ
 
 ---
 
-# 🛠 Equipment
+# Equipment
 
 - Hair Dryer / Air Pump
 - Digital Multimeter
@@ -46,7 +46,7 @@ This project demonstrates how wind energy can be converted into electrical energ
 
 ---
 
-# 🔩 Components
+# Components
 
 - DC Generator
 - 100 Ω Resistor
@@ -56,7 +56,7 @@ This project demonstrates how wind energy can be converted into electrical energ
 
 ---
 
-# 🔌 Circuit Description
+# Circuit Description
 
 The DC generator supplies power to:
 
@@ -68,7 +68,7 @@ The resistor limits current to protect the LEDs from excessive voltage.
 
 ---
 
-# ⚙️ Working Principle
+# Working Principle
 
 1. Wind rotates the turbine.
 2. The turbine drives the DC generator.
@@ -78,7 +78,7 @@ The resistor limits current to protect the LEDs from excessive voltage.
 
 ---
 
-# 📊 Experimental Results
+# Experimental Results
 
 ## DC Generator Output
 
@@ -100,7 +100,7 @@ The resistor limits current to protect the LEDs from excessive voltage.
 
 ---
 
-# 📈 Results Summary
+# Results Summary
 
 - Voltage increased with wind speed.
 - Current increased with generator speed.
@@ -111,7 +111,7 @@ The resistor limits current to protect the LEDs from excessive voltage.
 
 ---
 
-# ⚠ Challenges
+# Challenges
 
 During the initial construction, the resistor was accidentally omitted from the circuit, causing the LEDs to burn out due to excessive current.
 
@@ -119,7 +119,7 @@ The circuit was reconstructed with the resistor installed, after which the proje
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 
 The project successfully demonstrated the conversion of wind energy into electrical energy using a DC generator. As turbine speed increased, the generated voltage, current and power also increased, confirming the theoretical relationship between rotational speed and induced EMF.
 
@@ -127,7 +127,7 @@ This project demonstrates the feasibility of renewable energy systems for small-
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 Wind-Turbine-DC-Generator/
@@ -146,7 +146,7 @@ Wind-Turbine-DC-Generator/
 
 ---
 
-# 📷 Project Gallery
+# Project Gallery
 
 The repository includes:
 
@@ -161,7 +161,7 @@ The repository includes:
 
 ---
 
-# 📐 Theory
+# Theory
 
 According to Faraday's Law of Electromagnetic Induction:
 
@@ -190,7 +190,7 @@ Where:
 
 ---
 
-# 🧠 Engineering Concepts
+# Engineering Concepts
 
 - Renewable Energy
 - Wind Power
@@ -204,7 +204,7 @@ Where:
 
 ---
 
-# 💡 Skills Demonstrated
+# Skills Demonstrated
 
 - Electrical Circuit Design
 - Renewable Energy Systems
@@ -221,7 +221,7 @@ Where:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Add rechargeable battery storage.
 - Integrate a charge controller.
@@ -233,7 +233,7 @@ Where:
 
 ---
 
-# 💻 Software
+# Software
 
 - Proteus Design Suite
 - Microsoft Word
@@ -241,7 +241,7 @@ Where:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Thato Maelane**
 
